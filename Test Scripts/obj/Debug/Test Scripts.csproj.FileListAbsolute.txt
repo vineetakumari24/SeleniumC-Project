@@ -1,0 +1,17 @@
+D:\sushma\INTERNATIONAL\SampleAutomationFrameWork\TestAutomationFrameWork\Test Scripts\bin\Debug\Test Scripts.dll
+D:\sushma\INTERNATIONAL\SampleAutomationFrameWork\TestAutomationFrameWork\Test Scripts\bin\Debug\Test Scripts.pdb
+D:\sushma\INTERNATIONAL\SampleAutomationFrameWork\TestAutomationFrameWork\Test Scripts\bin\Debug\BrowserProcessor.dll
+D:\sushma\INTERNATIONAL\SampleAutomationFrameWork\TestAutomationFrameWork\Test Scripts\bin\Debug\nunit.core.dll
+D:\sushma\INTERNATIONAL\SampleAutomationFrameWork\TestAutomationFrameWork\Test Scripts\bin\Debug\nunit.core.interfaces.dll
+D:\sushma\INTERNATIONAL\SampleAutomationFrameWork\TestAutomationFrameWork\Test Scripts\bin\Debug\nunit.framework.dll
+D:\sushma\INTERNATIONAL\SampleAutomationFrameWork\TestAutomationFrameWork\Test Scripts\bin\Debug\nunit.util.dll
+D:\sushma\INTERNATIONAL\SampleAutomationFrameWork\TestAutomationFrameWork\Test Scripts\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+D:\sushma\INTERNATIONAL\SampleAutomationFrameWork\TestAutomationFrameWork\Test Scripts\bin\Debug\WebDriver.dll
+D:\sushma\INTERNATIONAL\SampleAutomationFrameWork\TestAutomationFrameWork\Test Scripts\bin\Debug\WebDriver.Support.dll
+D:\sushma\INTERNATIONAL\SampleAutomationFrameWork\TestAutomationFrameWork\Test Scripts\bin\Debug\BrowserProcessor.pdb
+D:\sushma\INTERNATIONAL\SampleAutomationFrameWork\TestAutomationFrameWork\Test Scripts\bin\Debug\nunit.framework.xml
+D:\sushma\INTERNATIONAL\SampleAutomationFrameWork\TestAutomationFrameWork\Test Scripts\bin\Debug\WebDriver.xml
+D:\sushma\INTERNATIONAL\SampleAutomationFrameWork\TestAutomationFrameWork\Test Scripts\bin\Debug\WebDriver.Support.xml
+D:\sushma\INTERNATIONAL\SampleAutomationFrameWork\TestAutomationFrameWork\Test Scripts\obj\Debug\Test Scripts.csprojResolveAssemblyReference.cache
+D:\sushma\INTERNATIONAL\SampleAutomationFrameWork\TestAutomationFrameWork\Test Scripts\obj\Debug\Test Scripts.dll
+D:\sushma\INTERNATIONAL\SampleAutomationFrameWork\TestAutomationFrameWork\Test Scripts\obj\Debug\Test Scripts.pdb

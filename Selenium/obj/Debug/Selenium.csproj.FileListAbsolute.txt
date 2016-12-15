@@ -1,0 +1,5 @@
+D:\sushma\INTERNATIONAL\SampleAutomationFrameWork\TestAutomationFrameWork\Selenium\bin\Debug\Selenium.dll
+D:\sushma\INTERNATIONAL\SampleAutomationFrameWork\TestAutomationFrameWork\Selenium\bin\Debug\Selenium.pdb
+D:\sushma\INTERNATIONAL\SampleAutomationFrameWork\TestAutomationFrameWork\Selenium\obj\Debug\Selenium.csprojResolveAssemblyReference.cache
+D:\sushma\INTERNATIONAL\SampleAutomationFrameWork\TestAutomationFrameWork\Selenium\obj\Debug\Selenium.dll
+D:\sushma\INTERNATIONAL\SampleAutomationFrameWork\TestAutomationFrameWork\Selenium\obj\Debug\Selenium.pdb

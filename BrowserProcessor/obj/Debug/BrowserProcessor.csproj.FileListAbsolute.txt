@@ -1,0 +1,16 @@
+D:\sushma\INTERNATIONAL\SampleAutomationFrameWork\TestAutomationFrameWork\BrowserProcessor\bin\Debug\BrowserProcessor.dll
+D:\sushma\INTERNATIONAL\SampleAutomationFrameWork\TestAutomationFrameWork\BrowserProcessor\bin\Debug\BrowserProcessor.pdb
+D:\sushma\INTERNATIONAL\SampleAutomationFrameWork\TestAutomationFrameWork\BrowserProcessor\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\sushma\INTERNATIONAL\SampleAutomationFrameWork\TestAutomationFrameWork\BrowserProcessor\bin\Debug\nunit.core.dll
+D:\sushma\INTERNATIONAL\SampleAutomationFrameWork\TestAutomationFrameWork\BrowserProcessor\bin\Debug\nunit.core.interfaces.dll
+D:\sushma\INTERNATIONAL\SampleAutomationFrameWork\TestAutomationFrameWork\BrowserProcessor\bin\Debug\nunit.framework.dll
+D:\sushma\INTERNATIONAL\SampleAutomationFrameWork\TestAutomationFrameWork\BrowserProcessor\bin\Debug\nunit.util.dll
+D:\sushma\INTERNATIONAL\SampleAutomationFrameWork\TestAutomationFrameWork\BrowserProcessor\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+D:\sushma\INTERNATIONAL\SampleAutomationFrameWork\TestAutomationFrameWork\BrowserProcessor\bin\Debug\WebDriver.dll
+D:\sushma\INTERNATIONAL\SampleAutomationFrameWork\TestAutomationFrameWork\BrowserProcessor\bin\Debug\WebDriver.Support.dll
+D:\sushma\INTERNATIONAL\SampleAutomationFrameWork\TestAutomationFrameWork\BrowserProcessor\bin\Debug\nunit.framework.xml
+D:\sushma\INTERNATIONAL\SampleAutomationFrameWork\TestAutomationFrameWork\BrowserProcessor\bin\Debug\WebDriver.xml
+D:\sushma\INTERNATIONAL\SampleAutomationFrameWork\TestAutomationFrameWork\BrowserProcessor\bin\Debug\WebDriver.Support.xml
+D:\sushma\INTERNATIONAL\SampleAutomationFrameWork\TestAutomationFrameWork\BrowserProcessor\obj\Debug\BrowserProcessor.csprojResolveAssemblyReference.cache
+D:\sushma\INTERNATIONAL\SampleAutomationFrameWork\TestAutomationFrameWork\BrowserProcessor\obj\Debug\BrowserProcessor.dll
+D:\sushma\INTERNATIONAL\SampleAutomationFrameWork\TestAutomationFrameWork\BrowserProcessor\obj\Debug\BrowserProcessor.pdb
